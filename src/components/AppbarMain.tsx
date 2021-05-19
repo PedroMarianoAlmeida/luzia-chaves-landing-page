@@ -7,7 +7,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
   logoText: {
-    fontFamily: "'Pinyon Script', cursive",
+    fontFamily: "'Satisfy', cursive",
     fontSize: '2rem',
     flexGrow: 1,
   },

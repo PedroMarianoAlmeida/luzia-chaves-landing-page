@@ -56,7 +56,7 @@ const useStyles = makeStyles((theme) => ({
   },
 
   nameText: {
-    fontFamily: "'Pinyon Script', cursive",
+    fontFamily: "'Satisfy', cursive",
     fontSize: '2rem',
     marginLeft: theme.spacing(1),
   },
