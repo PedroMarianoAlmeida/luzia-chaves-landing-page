@@ -104,7 +104,7 @@ const About = ({ desktopLayout }) => {
         <AvatarResizable
           alt="Luzia Chaves - Foto de Perfil"
           src="profile.jpeg"
-          spacing={20}
+          spacing={30}
         />
       </Box>
       <Divider className={classes.divider} />
