@@ -14,7 +14,7 @@ import { makeStyles } from '@material-ui/core/styles';
 const sintomas = [
   'Atraso no desenvolvimento global',
   'Aquisição lenta do vocabulário',
-  'Desorganização geral na folha (orientação espacial)',
+  'Orientação espacial',
   'Baixo rendimento escolar',
   'Falta de interesse nos estudos',
   'Dificuldade raciocínio lógico',
