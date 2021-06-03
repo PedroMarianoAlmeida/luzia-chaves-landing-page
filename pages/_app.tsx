@@ -2,11 +2,15 @@ import type { AppProps } from 'next/app';
 
 import CssBaseline from '@material-ui/core/CssBaseline';
 
+import FacebookPixel from './../src/components/reusable/FacebookPixel';
+
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <CssBaseline />
-      <Component {...pageProps} />
+      <FacebookPixel>
+        <Component {...pageProps} />
+      </FacebookPixel>
     </>
   );
 }
